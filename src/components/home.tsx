@@ -11,7 +11,7 @@ export function Home() {
       <div
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: 'url("imagens/cilios.jpg")',
+          backgroundImage: 'url("image/cilios.jpg")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}

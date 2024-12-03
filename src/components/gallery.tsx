@@ -5,19 +5,19 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const GALLERY_IMAGES = [
   {
-    url: 'https://images.unsplash.com/photo-1583001931096-959e9a1a6223?q=80&w=800',
+     src: "image/cilios1.jpeg",
     alt: 'Extensão de cílios clássica',
   },
   {
-    url: 'https://images.unsplash.com/photo-1561576722-c29a5674ad60?q=80&w=800',
+    src: "image/cilios2.jpeg",
     alt: 'Volume russo',
   },
   {
-    url: 'https://images.unsplash.com/photo-1588514727390-91fd5ebaef81?q=80&w=800',
+    src: "image/cilios3.jpeg",
     alt: 'Volume híbrido',
   },
   {
-    url: 'https://images.unsplash.com/photo-1579187707643-35646d22b596?q=80&w=800',
+    src: "image/cilios4.jpeg",
     alt: 'Resultado natural',
   },
 ];
