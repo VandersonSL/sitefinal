@@ -9,7 +9,7 @@ export const PROFESSIONAL = {
   name: 'Lorena Freitas',
   role: 'Especialista Master em Extensão de Cílios',
   image:
-    'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=1000',
+    'imagens/lorenaalteraçãoia.png',
   description:
     'Com mais de 4 anos de experiência em extensão de cílios, Lorena é reconhecida por sua técnica refinada e compromisso com a excelência. Formada pela  Lash Pro e certificada pelas principais academias do mundo, ela traz para o Studio Lorena freitas o que há de mais moderno e seguro em técnicas de extensão de cílios.',
   certifications: [
